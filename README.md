@@ -1,7 +1,7 @@
 # rgbSlider
 CPSC1519 - Assignment 2
 ## Description
-This is my 2nd assignment for the iOS Development course I took at the Northern Alberta Institasdf of Technology (NAIT).
+This is my 2nd assignment for the iOS Development course I took at the Northern Alberta Institute of Technology (NAIT).
 This is a simple application that allows a user change the background color based on the sliders position. Additionally, they
 can manually input the integer value on either textfield then tapping the "Change" button. The application was coded using Swift 3.
 ## Screenshot
