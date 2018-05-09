@@ -1,5 +1,5 @@
 # rgbSlider
-CPSC1519 - Assignment 2
+CPSC1519 - Assignment 2 - *Completed on June 2, 2017*
 ## Description
 This is my 2nd assignment for the iOS Development course I took at the Northern Alberta Institute of Technology (NAIT).
 This is a simple application that allows a user change the background color based on the sliders position. Additionally, they
